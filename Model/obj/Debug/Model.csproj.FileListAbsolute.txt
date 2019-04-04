@@ -1,0 +1,16 @@
+D:\项目\LessContainerDemo\CustomDemo\Model\bin\Debug\Model.dll
+D:\项目\LessContainerDemo\CustomDemo\Model\bin\Debug\Model.pdb
+D:\项目\LessContainerDemo\CustomDemo\Model\obj\Debug\Model.dll
+D:\项目\LessContainerDemo\CustomDemo\Model\obj\Debug\Model.pdb
+D:\Project\LessContainerDemo\CustomDemo\Model\bin\Debug\Model.dll
+D:\Project\LessContainerDemo\CustomDemo\Model\bin\Debug\Model.pdb
+D:\Project\LessContainerDemo\CustomDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Project\LessContainerDemo\CustomDemo\Model\obj\Debug\Model.dll
+D:\Project\LessContainerDemo\CustomDemo\Model\obj\Debug\Model.pdb
+D:\项目\LessContainerDemo\CustomDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\work_C#\CustomDemo\Model\bin\Debug\Model.dll
+E:\work_C#\CustomDemo\Model\bin\Debug\Model.pdb
+E:\work_C#\CustomDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\work_C#\CustomDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\work_C#\CustomDemo\Model\obj\Debug\Model.dll
+E:\work_C#\CustomDemo\Model\obj\Debug\Model.pdb

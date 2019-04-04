@@ -1,0 +1,23 @@
+外理
+code：3
+publickey
+<RSAKeyValue><Modulus>nQt+0ooUWf8C0KochW7xXwDJG8fxHD5b/fiOgaAVQzhB/zquZPVcicwhFgVLmr+8ygIV7m3+6cymKbLZfZY4/vs1OYWXzHS/DlGDHrY3qVeDHaSFD8+j/5q9CU5hgG4mfGlyoA67lr4agTYdzNrOUiiXeA+B3nuiD5QKX76DlNM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>
+privatekey
+<RSAKeyValue><Modulus>nQt+0ooUWf8C0KochW7xXwDJG8fxHD5b/fiOgaAVQzhB/zquZPVcicwhFgVLmr+8ygIV7m3+6cymKbLZfZY4/vs1OYWXzHS/DlGDHrY3qVeDHaSFD8+j/5q9CU5hgG4mfGlyoA67lr4agTYdzNrOUiiXeA+B3nuiD5QKX76DlNM=</Modulus><Exponent>AQAB</Exponent><P>yyr08t2Zt1we/0rXO5Qjbt+O6RUp6wMEEcQjPN1tg2/RT8I01snH8iwDHzP3FHlA4THZSa5hpmo7C0UZEdjTJQ==</P><Q>xeIZtbVC+jcepILsc0G2+CQlU82HVggAkyvDYGsZjVhjItGQ85C35necIZ3Bnoy9QHoq4iRzn69lYKMoVRnClw==</Q><DP>Aa+5mMp+HCeHmlbksnnoUWNJrGWgk3LS9dLK+BZecljbQ+44wg+quTfkTr3/rwvSngvr4dCwvtDi7JUGQD+sgQ==</DP><DQ>vMhe1L7P3hxVzIbnA3IvF36Mae3LbmUF/2Gh7EtgvjsToPUjf2qSN3nm5x80x4jnSCsE3GgAMtjHM7GUWdPQkw==</DQ><InverseQ>MTFApaszCj+AcoRyvtX57UJ3zAooFCFVqWdj/akaKkbTUQjKMVq/p0tue/bDSMJEpTN9X87Py4DYRLF183T8PA==</InverseQ><D>AtqdoGff/M60l2QwBoDApDBYd0fH6vJ7K39j35kwKbuQ/3lqh+0plFuAUm0gNZy8apNlIKMhGdCdSG62oyCiwoA2YKkJmO3cEvvFKvVUYrVeK2U1vzAqOY1UAAhl4so+l2I2JJNPjGH5KhwSGN+sNVK23rFJkgpGA3cgP5rpyKk=</D></RSAKeyValue>
+
+
+
+
+
+郁姐：
+红姐：运维试试西联功能测试，大港程序改动这周测试
+胖哥：西联图形化方案
+吴工：节前检查 黄岛6月14号南港区故障 机关开会支持 14号暴雨停电  西联测试环境  实化服务器故障
+徐工：值守工作  恢复工作  logo 董家口数据中心网络  项目向前赶赶  
+
+杜总：节日期间漏水 碎玻璃  稳定
+	调整新入港大学生岗位工作  高级岗工作  当月岗位工资就高发放
+	6月份开始实施？
+	半年项目工作总结
+	数据中心  安全重点项目
+任姐：胖哥联系  西联测试  白天测试晚上改程序
